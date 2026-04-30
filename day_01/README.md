@@ -26,5 +26,9 @@ uvicorn main:app --relaod
      app: Refers to the variable app = FastAPI() inside that file.
 
      --reload: Automatically restarts the server whenever it detects a change in code.
+![helloWorld](../images/helloWorld.png)
+
 
 - exploe docs at `/docs` or `/redoc`. FastAPI generates these automatically.
+
+![Docs](../images/doc.png)

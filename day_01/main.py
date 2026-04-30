@@ -9,5 +9,5 @@ async def hello_world():
     # returns a dict, which FastAPI will automatically convert to JSON
     # just like any function, anything can be reurned
     
-    return {"message": "Hello, World!"}
+    return {"message": f"Hello, World! This is 0xbasak"}
 # To run the application, use the command: uvicorn main:app --reload
