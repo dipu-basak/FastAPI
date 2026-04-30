@@ -38,7 +38,6 @@ def func(a: int| str):
 ````
 types can be `None` (equivalent of `NULL` in other languages) too.
 
-This is the code block that represents the suggested code change:
 ```python
 def func(name: str | None = None):
     if name is not None:
