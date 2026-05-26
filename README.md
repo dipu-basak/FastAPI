@@ -16,3 +16,5 @@ Focus: Mastering FastAPI's basics and type system for reliable development.
 - [day_01](day_01/)
 ### Day 2: Exploring Basics
 - [day_02](day_02/)
+### Day 3: Exploring More Basics
+- [day_03](day_03/)
